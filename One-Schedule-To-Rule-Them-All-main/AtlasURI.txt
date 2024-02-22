@@ -1,1 +1,0 @@
-mongodb+srv://GabLikesCoffee:0598957@cluster0.xrqchpr.mongodb.net/?retryWrites=true&w=majority
